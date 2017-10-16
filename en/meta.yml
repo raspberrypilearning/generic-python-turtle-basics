@@ -1,0 +1,13 @@
+title: Import the turtle module
+hero_image: images/banner.png
+description: How to import the Python turtle module
+original_url: 
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: "graphics"
+technologies: "python, turtle"
+steps:
+  - title: Turtle basics
